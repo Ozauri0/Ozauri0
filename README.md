@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Developer** with a love for building impactful app
   Showcasing my work, skills, and journey as a developer.
 
 - [**MyBudget**](https://play.google.com/store/apps/details?id=com.ozauri0.mybudget)  
-  My first Android app published on the Play Store—a simple, intuitive budgeting tool!
+  My first Android app published on the Play Store a simple, intuitive budgeting tool!
 
 ## 🧰 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
