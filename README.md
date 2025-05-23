@@ -3,18 +3,7 @@
 I'm a passionate **Full Stack Developer** with a love for building impactful applications and exploring new technologies.
 
 ## 🚀 About Me
-- 💻 I specialize in:
-  - **TypeScript**
-  - **JavaScript**
-  - **Node.js**
-  - **Next.js**
-  - **React**
-  - **Angular**
-  - **Ionic**
-  - **Python**
-  - **MongoDB**
-  - **MySQL**
-- 🌱 Always learning and growing in the world of software development.
+- 🌱 Currently learning and growing in the world of software development.
 - 🛠️ I enjoy working across the stack, from crafting engaging front-end experiences to architecting scalable back-end solutions.
 
 ## 🌟 Featured Projects
