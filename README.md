@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** with a love for building impactful app
 - [**My Portfolio**](https://christianferrer.me)  
   Showcasing my work, skills, and journey as a developer.
 
-- [**MyBudget**](https://play.google.com/store/apps/details?id=com.ozauri0.mybudget)  
+- [**MyBudget**](https://play.google.com/store/apps/details?id=com.mybudget.app)  
   My first Android app published on the Play Store a simple, intuitive budgeting tool!
 
 ## 🧰 Tech Stack
